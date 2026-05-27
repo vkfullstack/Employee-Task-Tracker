@@ -72,20 +72,27 @@ src/
 
 ## 📸 Screenshots
 
-Create a folder in your project root:
+### 🔵 Swagger UI
 
-screenshots/
+![Swagger UI 1](https://github.com/vkfullstack/Employee-Task-Tracker/blob/1dfc433b2d10347a2cedf91ec6e9dbf796eda0ac/Screenshot%202026-05-27%20184852.png?raw=true)
 
-Add images like:
-- swagger.png
-- login.png
-- tasks.png
+![Swagger UI 2](https://github.com/vkfullstack/Employee-Task-Tracker/blob/1dfc433b2d10347a2cedf91ec6e9dbf796eda0ac/Screenshot%202026-05-27%20184919.png?raw=true)
 
-Example usage in README:
+---
 
-![Swagger UI](screenshots/swagger.png)
-![Login API](screenshots/login.png)
-![Tasks](screenshots/tasks.png)
+### 🟢 Login API
+
+![Login 1](https://github.com/vkfullstack/Employee-Task-Tracker/blob/1dfc433b2d10347a2cedf91ec6e9dbf796eda0ac/Screenshot%202026-05-27%20184958.png?raw=true)
+
+![Login 2](https://github.com/vkfullstack/Employee-Task-Tracker/blob/1dfc433b2d10347a2cedf91ec6e9dbf796eda0ac/Screenshot%202026-05-27%20185023.png?raw=true)
+
+---
+
+### 🟠 Register API
+
+![Register 1](https://github.com/vkfullstack/Employee-Task-Tracker/blob/1dfc433b2d10347a2cedf91ec6e9dbf796eda0ac/Screenshot%202026-05-27%20185117.png?raw=true)
+
+![Register 2](https://github.com/vkfullstack/Employee-Task-Tracker/blob/1dfc433b2d10347a2cedf91ec6e9dbf796eda0ac/Screenshot%202026-05-27%20185129.png?raw=true)
 
 ---
 
